@@ -1,7 +1,11 @@
 # Twitter Clone
 
-A simple Twitter clone built using JavaScript and Node.js.
 
+A simple Twitter clone built using JavaScript and Node.js.
+   
+📸 Screenshots
+![1](https://github.com/user-attachments/assets/aec031af-5357-434d-9461-4d3348e1885a)
+  
 ## 🚀 Features
 
 - User registration and login
@@ -21,6 +25,3 @@ A simple Twitter clone built using JavaScript and Node.js.
    ```bash
    git clone https://github.com/ulzhan00000/twitter.git
 
-   
-📸 Screenshots
-![1](https://github.com/user-attachments/assets/aec031af-5357-434d-9461-4d3348e1885a)
