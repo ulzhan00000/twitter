@@ -8,7 +8,7 @@ A simple Twitter clone built using JavaScript and Node.js.
   
 ## 🚀 Features
 
-- User registration and login
+
 - Post and view tweets
 - View tweets from other users
 - Clean and minimal UI
